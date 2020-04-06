@@ -1,0 +1,19 @@
+ -- A Testbech to test wgen1
+ entity test_wgen1 is
+ end entity test_wgen1;
+ architecture test of test_wgen1 is
+ signal t_A, t_B, t_C, t_Z : bit;
+ signal t_D : bit_vector(1 downto 0);
+ component wgen1 is
+port (D : in bit_vector(1 downto 0);
+ A, B, C, Z : out bit);
+ end component;
+ begin
+ my_design: wgen1 port map (t_D, t_A, t_B, t_C, t_Z);
+ -- Initialization process (code that executes only once).
+ init: process
+ begin
+ t_D <= "00", "01" after 30 ns, "10" after 45 ns, "11" after 57 ns;
+ wait;
+ end process init;
+end architecture test;

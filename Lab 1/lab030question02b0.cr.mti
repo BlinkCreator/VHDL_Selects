@@ -1,0 +1,7 @@
+{C:/Users/barry/OneDrive/Desktop/New folder/Compsys03050Digital0design/La/Enableoutput.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/barry/OneDrive/Desktop/New folder/Compsys03050Digital0design/La/Enableoutput.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Compiling entity wgen2
+-- Compiling architecture behaviour of wgen2
+
+} {} {}}

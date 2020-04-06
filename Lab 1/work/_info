@@ -1,0 +1,185 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+Eselect2bit
+Z0 w1583976708
+Z1 dC:/Users/barry/OneDrive/Desktop/New folder/Compsys03050Digital0design/La
+Z2 8C:/Users/barry/OneDrive/Desktop/New folder/Compsys03050Digital0design/La/2Sel.vhd
+Z3 FC:/Users/barry/OneDrive/Desktop/New folder/Compsys03050Digital0design/La/2Sel.vhd
+l0
+L1
+V=ZPHY9Xe2AOCX3k_I:2NT3
+!s100 3GajgZ_7hbMR1b<7iW67W0
+Z4 OP;C;10.4a;61
+32
+Z5 !s110 1583976742
+!i10b 1
+Z6 !s108 1583976742.000000
+Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/barry/OneDrive/Desktop/New folder/Compsys03050Digital0design/La/2Sel.vhd|
+Z8 !s107 C:/Users/barry/OneDrive/Desktop/New folder/Compsys03050Digital0design/La/2Sel.vhd|
+!i113 1
+Z9 o-work work -2002 -explicit -O0
+Z10 tExplicit 1
+Abehaviour
+DEx4 work 10 select2bit 0 22 =ZPHY9Xe2AOCX3k_I:2NT3
+l7
+L5
+Vjhd03lVoLYGL8:>UA4mEj3
+!s100 hHPlMWG[m=Kg7MbKi5A3k1
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Etest_wgen1
+Z11 w1583975939
+R1
+Z12 8C:/Users/barry/OneDrive/Desktop/New folder/Compsys03050Digital0design/La/2selbatchpart1.vhd
+Z13 FC:/Users/barry/OneDrive/Desktop/New folder/Compsys03050Digital0design/La/2selbatchpart1.vhd
+l0
+L2
+VTU?NlHRkB@K^coXEmmj]g3
+!s100 =5?_CEHb[njJnK^h=B3`S2
+R4
+32
+Z14 !s110 1583976871
+!i10b 1
+Z15 !s108 1583976871.000000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/barry/OneDrive/Desktop/New folder/Compsys03050Digital0design/La/2selbatchpart1.vhd|
+Z17 !s107 C:/Users/barry/OneDrive/Desktop/New folder/Compsys03050Digital0design/La/2selbatchpart1.vhd|
+!i113 1
+R9
+R10
+Atest
+DEx4 work 10 test_wgen1 0 22 TU?NlHRkB@K^coXEmmj]g3
+l11
+L4
+V5X?0JYSIQM[7ZBCMOM@zL3
+!s100 kI=30CO`9T:Z]0k0@OQP<2
+R4
+32
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 1
+R9
+R10
+Etest_wgen2
+Z18 w1584068556
+R1
+Z19 8C:/Users/barry/OneDrive/Desktop/New folder/Compsys03050Digital0design/La/enablebenchtest.vhd
+Z20 FC:/Users/barry/OneDrive/Desktop/New folder/Compsys03050Digital0design/La/enablebenchtest.vhd
+l0
+L2
+VRTQdIb`3L;6:Q44IIYi`O1
+!s100 fbM;hR5_j9?F5RW6hFR]e3
+R4
+32
+Z21 !s110 1584068562
+!i10b 1
+Z22 !s108 1584068562.000000
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/barry/OneDrive/Desktop/New folder/Compsys03050Digital0design/La/enablebenchtest.vhd|
+Z24 !s107 C:/Users/barry/OneDrive/Desktop/New folder/Compsys03050Digital0design/La/enablebenchtest.vhd|
+!i113 1
+R9
+R10
+Atest
+Z25 DEx4 work 10 test_wgen2 0 22 RTQdIb`3L;6:Q44IIYi`O1
+l12
+L4
+VcYASH6HndNVEXJPd;dYN10
+!s100 @72ND^P<l^ZCXlRimg<RO0
+R4
+32
+R21
+!i10b 1
+R22
+R23
+R24
+!i113 1
+R9
+R10
+Ewgen1
+Z26 w1583977333
+R1
+R2
+R3
+l0
+L1
+VaV:H[7XKVoze;CINDomWb3
+!s100 J^_QIULTzLl>MU5hTc]7W3
+R4
+32
+Z27 !s110 1583977345
+!i10b 1
+Z28 !s108 1583977345.000000
+R7
+R8
+!i113 1
+R9
+R10
+Abehaviour
+DEx4 work 5 wgen1 0 22 aV:H[7XKVoze;CINDomWb3
+l7
+L5
+Vl1kWddCa8oK83KO;>5>G20
+!s100 2CiBGi9NT6nodEW9:eVEn0
+R4
+32
+R27
+!i10b 1
+R28
+R7
+R8
+!i113 1
+R9
+R10
+Ewgen2
+Z29 w1584068317
+R1
+Z30 8C:/Users/barry/OneDrive/Desktop/New folder/Compsys03050Digital0design/La/Enableoutput.vhd
+Z31 FC:/Users/barry/OneDrive/Desktop/New folder/Compsys03050Digital0design/La/Enableoutput.vhd
+l0
+L1
+Vn2Ko[U>d?[QC2O0CIh7nT3
+!s100 >oW77`I^h7j`UFczD6V:g2
+R4
+32
+Z32 !s110 1584068321
+!i10b 1
+Z33 !s108 1584068321.000000
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/barry/OneDrive/Desktop/New folder/Compsys03050Digital0design/La/Enableoutput.vhd|
+Z35 !s107 C:/Users/barry/OneDrive/Desktop/New folder/Compsys03050Digital0design/La/Enableoutput.vhd|
+!i113 1
+R9
+R10
+Abehaviour
+DEx4 work 5 wgen2 0 22 n2Ko[U>d?[QC2O0CIh7nT3
+l6
+L4
+V^^zD=mMi0OlGhfDhm0a371
+!s100 h8MPAi]BWn`8`P``G]gG30
+R4
+32
+R32
+!i10b 1
+R33
+R34
+R35
+!i113 1
+R9
+R10
